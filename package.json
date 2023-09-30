@@ -1,0 +1,22 @@
+{
+  "name": "douwehub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedouwe26/douwehub.git"
+  },
+  "author": "dedouwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedouwe26/douwehub/issues"
+  },
+  "homepage": "https://github.com/dedouwe26/douwehub#readme",
+  "dependencies": {
+    "electron": "^17.0.0"
+  }
+}
